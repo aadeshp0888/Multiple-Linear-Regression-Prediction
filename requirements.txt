@@ -1,0 +1,5 @@
+The scatter plot and regression line show the relationship between TV advertising budget and sales
+The regression line fits the data points and provides a visual indication of how sales change with TV advertising.
+
+The final outcome of the project is a functional predictive model that helps the company understand the impact of TV advertising on sales and aids in making informed decisions regarding advertising budgets. By analyzing and predicting sales effectively,
+the company can better allocate its advertising resources to maximize sales growth.
